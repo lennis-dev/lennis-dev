@@ -1,5 +1,8 @@
+<img width="100%" src="https://www.lennis.dev/static/img/svgs/lennis.dev.svg"></img>
+
+
 ### Hi there 👋,
-- 👋 I’m Lennis
+- 👋 I’m [Lennis](https://lennis.dev)
 - 🔭 I’m currently working on [synxit](https://github.com/synxit)
 - 🌱 I’m currently learning for school
 - 👯 I’m looking to collaborate on different coding projects
