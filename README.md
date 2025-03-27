@@ -59,10 +59,10 @@
         <img src="https://avatars.githubusercontent.com/u/79345384?s=40&v=4" alt="zed-editor" width="40" height="40"/>
     </a>
 </p>
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lennis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lennis" /></a></p><br><br>
-
+-->
 <h3 align="left">My Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lennis-dev&show_icons=true&theme=dark&locale=en" alt="lennis-dev" /></p>
